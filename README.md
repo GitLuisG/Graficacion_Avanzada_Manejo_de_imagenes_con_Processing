@@ -5,3 +5,5 @@
 !["Pantalla Verde"](img.png)
 * Ejemplo 
 !["FaceDetector"](img2.png)
+* Ejemplo
+!["Rostro Detector"](img3.png)
