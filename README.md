@@ -1,9 +1,9 @@
 # Graficacion_Avanzada_Manejo_de_imagenes_con_Processing
 # Integrantes
 * Luis Gerardo Perales Torres
-* Ejemplo 
+* Ejemplo Proyecto Manejoimg
 !["Pantalla Verde"](img.png)
-* Ejemplo 
+* Ejemplo  Proyecto FaceDetection
 !["FaceDetector"](img2.png)
-* Ejemplo
+* Ejemplo Proyecto CapturaEinstein
 !["Rostro Detector"](img3.png)
